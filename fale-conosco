@@ -41,7 +41,7 @@
 						</hgroup>
 					</header>
 
-					<form method="post" id="fcontato" action="mailto:cirleno@yahoo.com.br" oninput="calc_total();">
+					<form method="post" id="fcontato" action="#" oninput="calc_total();">
 						<fieldset id="usuario">
 							<legend>Identificação do Usuário</legend>
 						    <p><label for="cnome">Nome:&nbsp</label><input type="text" name="tnome" id="cnome" size="46" maxlength="50" placeholder="Nome Completo"/> </p>
